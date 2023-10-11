@@ -145,6 +145,6 @@ function showSlides() {
 
 Open to networking, collaborations, and discussions on all things ERP, SaaS, and Software Engineering. Let's connect and explore the possibilities together!
 
-Cheers! <br>
+Cheers!<br>
 
 [Muhammad Rizki Aldiansyah](https://www.linkedin.com/in/rizkialdiansyah/)
