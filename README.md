@@ -10,7 +10,7 @@ Hi, I'm Aldi. Product Owner
 
 Experienced and passionate as Product Owner with a years experience then relentless drive for delivering excellence in the WEB3, ERP and SaaS industry. Committed to mastering the intricacies of the Product Development Life Cycle and constantly seeking deeper insights into the world of Software Engineering.
 
-My mission is to craft solutions that empower businesses to thrive and evolve in the ever-changing digital landscape. I'm dedicated to delivering value through user-centered, innovative products and continuous improvement. My Skill-set as a Product Owner is in good communication to maintenance stakeholders with their prioritization, focused on Product/Project Management, Documentation BRD/PRD, Prioritization Decision, Brainstroming Ideas, and Product Market Fit.
+My mission is to craft solutions that empower businesses to thrive and evolve in the ever-changing digital landscape. I'm dedicated to delivering value through user-centered, innovative products and continuous improvement. My Skill-set as a Product Owner is in good communication to maintenance stakeholders with their prioritization, focused on Product/Project Management, Documentation BRD/PRD, Prioritization Decision, Brainstroming Ideas, User Journey, and Product Market Fit.
 
 ## My Links
 
