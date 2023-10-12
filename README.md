@@ -143,7 +143,7 @@ function showSlides() {
 
 ## I'm grateful that you've taken the time to peruse my profile. Thank you!
 
-Open to networking, collaborations, and discussions on all things ERP, SaaS, and Software Engineering. Let's connect and explore the possibilities together!
+Open to networking, collaborations, and discussions on all things ERP, SaaS, and Software Engineering. Let's connect and explore the possibilities together!.
 
 Cheers!!!<br>
 
