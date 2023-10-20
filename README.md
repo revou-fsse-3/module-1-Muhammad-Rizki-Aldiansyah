@@ -8,3 +8,5 @@ Assignment Example for Week 1 - Making a landing web page
 - Style your form to align with your website's design.
 
 Layout: https://module-1-muhammad-rizki-aldiansyah.vercel.app/
+
+## Enjoy!!
