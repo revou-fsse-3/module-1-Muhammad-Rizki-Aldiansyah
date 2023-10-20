@@ -3,13 +3,6 @@ body {
   margin: 0;
 }
 
-.explanation.photos {
-  display: flex;
-  align-items: center;
-  width: 50%;
-  height: 50%;
-}
-
 .btn {
   border: #222222 solid 2px;
   background-color: #717171;
@@ -18,10 +11,16 @@ body {
   padding-right: 10px;
 }
 
+.colorbg {
+  background-color: #bbb;
+  border-radius: 20px;
+}
+
 .explanation {
   display: flex;
   gap: 20px;
   padding: 25px;
+  align-items: center;
 }
 
 * {
@@ -32,6 +31,7 @@ body {
 .slideshow-container {
   max-width: 750px;
   position: relative;
+  z-index: 1;
   margin: auto;
 }
 
@@ -136,6 +136,7 @@ section.full-screen {
 
 nav {
   position: fixed;
+  z-index: 99;
   background-color: white;
   width: 100%;
   display: flex;
